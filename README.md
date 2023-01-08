@@ -1,4 +1,3 @@
-#MW4 GESTÃO
 "O MW4 GESTÃO é uma ferramenta incrível desenvolvida por GUSTAVO DE SOUZA LIMA. Ela é distribuída GRATUITAMENTE se você for parceiro IB na W7 do Gustavo, mas pode ser adquirida para ser utilizada em outras corretoras. Essa ferramenta é baseada no método vencedor e aprovado por milhares de traders ao redor do mundo, o MW4. O indicador MW4 GESTÃO foi desenvolvido para quem usa o método 4 pilares do Willy Heine."
 
 
